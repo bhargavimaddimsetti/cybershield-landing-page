@@ -36,4 +36,4 @@ This project was created as a responsive landing page development task to practi
 
 ## Author
 
-Bharu
+Bhargavi
